@@ -15,6 +15,8 @@ public class GitTest {
         System.out.println("this is hot-fix fork");
         System.out.println("this is hot-fix fork print message");
         System.out.println("new creat version of master fork");
+        System.out.println("on githup is fixed ");
+         
     }
 
     public static double sum(double a,double b){
