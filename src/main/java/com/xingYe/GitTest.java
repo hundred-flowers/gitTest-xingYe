@@ -12,6 +12,8 @@ public class GitTest {
         System.out.println("Hello,Git");
         System.out.println("现在的时间是："+new Date());
         System.out.println(sum(7.2,3.4));
+        System.out.println("this is hot-fix fork");
+        System.out.println("this is hot-fix fork print message");
     }
 
     public static double sum(double a,double b){
