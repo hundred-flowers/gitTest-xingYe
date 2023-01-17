@@ -9,6 +9,7 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("Hello,Git");
         System.out.println(sum(7.2,3.4));
+        System.out.println("this is hot-fix fork");
     }
 
     public static double sum(double a,double b){
